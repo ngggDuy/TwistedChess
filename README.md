@@ -1,6 +1,5 @@
 # TwistedChess
 A simple chess game as web-dev practice. As development progresses, custom pieces will be added along with an AI opponent that can play around these custom pieces. 
-# ChessGame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
